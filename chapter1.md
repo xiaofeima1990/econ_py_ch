@@ -26,7 +26,7 @@ print x+y
 ```
 
 
-
+{% math %}
 $$\eqalign{
   & \mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}  = 1  \cr 
   & {{ - b \pm \sqrt {{b^2} - 4ac} } \over {2a}} \cr} $$
