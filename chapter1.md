@@ -6,4 +6,4 @@ $$\pi$$
 
 $$safkjl $$ 
 
-$$\sideset{^1_2}{^3_4}\bigotimes$$
+{$\sideset{^1_2}{^3_4}\bigotimes$}
