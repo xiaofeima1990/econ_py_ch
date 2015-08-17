@@ -15,3 +15,4 @@ $$\sideset{^1_2}{^3_4}\bigotimes$$
 dafjkl
 {% endmath %}
 {{ book.myVariable }}
+{% math %}a \ne 0{% endmath %}
