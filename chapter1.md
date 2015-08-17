@@ -11,6 +11,7 @@ $sdfsa$
 $$safkjl $$ 
 $$\sideset{^1_2}{^3_4}\bigotimes$$
 
-
-
+{% math %}
+dafjkl
+{% endmath %}
 {{ book.myVariable }}
