@@ -1,11 +1,7 @@
 {
-    "plugins": [
-        "mathjax4us"
-    ],
+    "plugins": [],
     "variables": {
         "myVariable": "Hello World"
     },
-    "pluginsConfig": { "mathjax":{
-            "forceSVG": true
-        }}
+    "pluginsConfig": {}
 }
