@@ -39,3 +39,4 @@ this jafj lkasjdf lkjasklaskj dfkl
 \frac{{ - b \pm \sqrt {{b^2} - 4ac} }}{{2a}}
 \end{array}\]
 {% endmath %}
+
