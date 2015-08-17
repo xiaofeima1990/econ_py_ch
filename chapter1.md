@@ -4,3 +4,5 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 $$sdas$$
 
 $ss$
+
+When {% math %}a \ne 0{% endmath %}
