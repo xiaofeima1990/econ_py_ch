@@ -46,9 +46,9 @@ asfasdfasdfasdfasdfadsfasdfasdfasd f
 {% math %}
 \[\mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}  = 1\]
 {% endmath %}
-
+fadsfsadfasdfasdf asdf asd fasd fads fa ds
 
 {% math %}
-\[\mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}  = 1\]
+$$\mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}  = 1$$
 {% endmath %}
 
