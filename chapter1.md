@@ -12,3 +12,5 @@ $$sfsdaf$$
 
 
 $$x=1$$
+
+{%math%}a \eq 0 {% endmath %}
