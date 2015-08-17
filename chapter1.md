@@ -13,4 +13,4 @@ $$sfsdaf$$
 
 $$x=1$$
 is this true for this 
-{%math%}a \eq 0 {% endmath %}
+{%math%}a = 0 {% endmath %}
