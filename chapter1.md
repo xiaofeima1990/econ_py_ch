@@ -39,6 +39,6 @@ this jafj lkasjdf lkjasklaskj dfkl
 \frac{{ - b \pm \sqrt {{b^2} - 4ac} }}{{2a}}
 \end{array}\]
 {% endmath %}
-
+{% math %}
 \[\mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}  = 1\]
 {% endmath %}
