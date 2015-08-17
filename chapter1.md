@@ -48,4 +48,7 @@ asfasdfasdfasdfasdfadsfasdfasdfasd f
 {% endmath %}
 
 
+{% math %}
+\[\mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}  = 1\]
+{% endmath %}
 
