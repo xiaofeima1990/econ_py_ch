@@ -52,3 +52,5 @@ fadsfsadfasdfasdf asdf asd fasd fads fa ds
 \mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}  = 1
 {% endmath %}
 
+$$\mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}  = 1$$
+
