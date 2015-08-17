@@ -40,3 +40,4 @@ this jafj lkasjdf lkjasklaskj dfkl
 \end{array}\]
 {% endmath %}
 
+\[\mathop {\lim }\limits_{x \to \infty } \sqrt {{a^2} + {b^2}}  = 1\]
