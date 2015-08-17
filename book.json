@@ -6,5 +6,7 @@
         "myVariable": "Hello World"
     },
     "pluginsConfig": { "mathjax":{
-            "forceSVG": true}
+            "forceSVG": true
+    }
+    }
 }
