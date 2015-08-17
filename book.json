@@ -5,5 +5,7 @@
     "variables": {
         "myVariable": "Hello World"
     },
-    "pluginsConfig": {}
+    "pluginsConfig": { "mathjax":{
+            "forceSVG": true
+        }}
 }
