@@ -8,7 +8,7 @@ For instance, if we consider a distribution with support restricted to $$(4:5; 1
 the additional and unnecessary variation of the Monte Carlo estimator due to
 simulating zeros (i.e., when $x < 4.5$) disappears. A natural choice is to take g as
 the density of the exponential distribution $exp{1}$ truncated at $4.5$,
-
+~~
 $$g(y)=e^{-y}/\int^{\infty}_{4.5}e^{-x}dx=e^{-(y-4.5)}$$
 
 
