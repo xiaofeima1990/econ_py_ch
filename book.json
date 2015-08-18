@@ -1,5 +1,7 @@
 {
-    "plugins": [],
+    "plugins": [
+        "mathjax"
+    ],
     "variables": {
         "myVariable": "Hello World"
     },
