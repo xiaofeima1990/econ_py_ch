@@ -11,3 +11,7 @@ the density of the exponential distribution $exp{1}$ truncated at $4.5$,
 
 $$g(y)=e^{-y}/\int^{\infty}_{4.5}e^{-x}dx=e^{-(y-4.5)}$$
 
+
+&&&
+x=1
+&&&
