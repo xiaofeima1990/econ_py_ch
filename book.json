@@ -4,7 +4,7 @@
     ],
     "variables": {
         "myVariable": "Hello World",
-        "mathhead": <script type="text/x-mathjax-config">MathJax.Hub.Config({  TeX: { equationNumbers: { autoNumber: "AMS" } }});</script>
+        "mathhead": "<script type="text/x-mathjax-config">MathJax.Hub.Config({  TeX: { equationNumbers: { autoNumber: "AMS" } }});</script>"
         
         
     },
