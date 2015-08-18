@@ -3,7 +3,8 @@
         "mathjax"
     ],
     "variables": {
-        "myVariable": "Hello World"
+        "myVariable": "Hello World",
+        
     },
     "pluginsConfig": { "mathjax":{
             "forceSVG": true
