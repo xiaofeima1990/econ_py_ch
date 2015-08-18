@@ -7,10 +7,12 @@
         
         
     },
+    
     "pluginsConfig": { "mathjax":{
             "forceSVG": true
         }
     },
+    
      "styles": {
         "website": "website.css",
         "ebook": "ebook.css",
