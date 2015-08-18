@@ -1,19 +1,10 @@
 {
-    "plugins": [
-        "mathjax"
-    ],
+    "plugins": [],
     "variables": {
         "myVariable": "Hello World"
-        
-        
     },
-    
-    "pluginsConfig": { "mathjax":{
-            "forceSVG": true
-        }
-    },
-    
-     "styles": {
+    "pluginsConfig": {},
+    "styles": {
         "website": "website.css",
         "ebook": "ebook.css",
         "pdf": "pdf.css",
